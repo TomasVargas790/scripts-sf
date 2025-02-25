@@ -1,0 +1,28 @@
+{
+    "Location__c": [
+        {
+            "Id": "a0Z3i000001vbg5EAA",
+            "OwnerId": "0053i000002CVG4AAO",
+            "IsDeleted": false,
+            "Name": "SECCION 6ª",
+            "RecordTypeId": "0123i0000001Y6JAAU",
+            "CreatedDate": "2020-05-04T20:49:24.000+0000",
+            "CreatedById": "0053i000002CVG4AAO",
+            "LastModifiedDate": "2020-05-04T20:49:24.000+0000",
+            "LastModifiedById": "0053i000002CVG4AAO",
+            "SystemModstamp": "2020-05-04T20:49:24.000+0000",
+            "LastViewedDate": null,
+            "LastReferencedDate": null,
+            "CodeAS400__c": "518",
+            "Code__c": "130518",
+            "ExternalId__c": "130518",
+            "PostalCode__c": "5500",
+            "Province__c": "a0Z3i000001vbDsEAI",
+            "CP_Localidad_Provincia__c": "5500 SECCION 6ª Mendoza",
+            "Localidad_with_Postal_Code__c": "SECCION 6ª (5500)",
+            "Locationobj__c": null,
+            "RiskZone__c": null,
+            "Zona_Riesgo__c": null
+        }
+    ]
+}
